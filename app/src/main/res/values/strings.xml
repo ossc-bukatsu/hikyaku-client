@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">hikyaku-client</string>
+    <string name="top">あなた</string>
+    <string name="send">おくる</string>
+    <string name="receive">うけとる</string>
+    <string name="carry">はこぶ</string>
+    <string name="OK">OK</string>
+    <string name="header_message_carry_main">あなたの移動できる範囲を指定しましょう！</string>
+    <string name="header_message_carry_senderlist">近くの人の荷物を運んであげましょう！</string>
+    <string name="header_message_send_main">送り先ユーザのIDを入力してください</string>
+    <string name="header_message_send_carrierlist">荷物を運んでくれる人を探しましょう！</string>
+    <string name="header_message_receive_main">あなたに届く荷物リスト</string>
+    <string name="input_id">ID</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="facebook_app_id">718130958530889</string>
+    <string name="fb_login_protocol_scheme">fb718130958530889</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
