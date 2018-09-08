@@ -19,13 +19,12 @@ public class ReceiveActivity extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//        setContentView(R.layout.receive_main);
     }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
-        return inflater.inflate(R.layout.receive_main, container, false);
+        return inflater.inflate(R.layout.carry_main, container, false);
     }
 
     @Override

@@ -13,6 +13,10 @@
     <string name="input_id">ID</string>
     <string name="title_activity_login">Sign in</string>
 
+    <string name="take_photo_button">撮影</string>
+    <string name="wait_carrier_button">運んでくれる人をまつ</string>
+    <string name="description">camera picture</string>
+
     <!-- Strings related to login -->
     <string name="facebook_app_id">718130958530889</string>
     <string name="fb_login_protocol_scheme">fb718130958530889</string>
@@ -28,4 +32,6 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="locationx">locationx</string>
+    <string name="locationy">locationy</string>
 </resources>
